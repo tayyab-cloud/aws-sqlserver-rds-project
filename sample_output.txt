@@ -1,0 +1,7 @@
+  output of SELECT * FROM Students;
+
+StudentID   Name           Age   Course
+---------   ------------   ----  ------------
+1           Ali Ahmed      22    Computer Science
+2           Sara Khan      23    Data Science
+3           Bilal Raza     21    AI and ML
