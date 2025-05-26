@@ -1,0 +1,5 @@
+RDS Endpoint: my-sql-db.csja8cus6rdq.us-east-1.rds.amazonaws.com
+Port: 1433
+Username: admin
+Database Name: master (default)
+Connection Tool: sqlcmd
